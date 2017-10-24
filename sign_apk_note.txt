@@ -1,0 +1,5 @@
+1.OS must need Linux
+
+2.OS's jdk must 1.8
+
+3. java -Djava.library.path="." -jar signapk.jar -w platform.x509.pem platform.pk8 app-debug.apk app-debug-signed.apk
